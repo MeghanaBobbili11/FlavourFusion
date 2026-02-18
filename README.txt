@@ -1,4 +1,4 @@
-Flavour Fusion - AI Recipe Blogging App
+#Flavour Fusion - AI Recipe Blogging App
 
 Setup Instructions:
 
@@ -10,3 +10,4 @@ Setup Instructions:
 
 3. Run the app:
    streamlit run app.py
+by B M S L MEGHANA
